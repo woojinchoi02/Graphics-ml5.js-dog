@@ -1,1 +1,2 @@
-# Graphics-ml5.js-dog
+# 그래픽스 ml5.js를 활용한 개인과제
+###최우진
